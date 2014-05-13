@@ -1,0 +1,29 @@
+{
+  "name": "dvcs.link",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marcoceppi/dvcs.link",
+  "authors": [
+    "Marco Ceppi <marco@ceppi.net>"
+  ],
+  "description": "Life is too short to pick just one tool",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic-ui": "~0.16.1",
+    "jquery-address": "*"
+  }
+}
